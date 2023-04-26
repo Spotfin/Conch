@@ -1,2 +1,2 @@
 # Conch
-WP Starter Theme by @spotfincreative @bmoredrew
+WordPress Plugin Starter Shell by @spotfincreative @bmoredrew
