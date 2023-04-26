@@ -3,6 +3,9 @@
     "description": "WordPress Starter Plugin",
     "type": "wordpress-plugin",
     "license": "Unlicense",
+    "config": {
+        "vendor-dir": "lib"
+    },
     "autoload": {
         "psr-4": {
             "Spotfin\\Conch\\": "src/"
