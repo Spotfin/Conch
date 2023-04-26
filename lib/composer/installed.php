@@ -3,7 +3,7 @@
         'name' => 'spotfin/conch',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'c5637d64eb8dabb3fcd736df9ea3fe229e34f6a9',
+        'reference' => '3367074e610fd91ab758b6666ded82ff5c007199',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'spotfin/conch' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'c5637d64eb8dabb3fcd736df9ea3fe229e34f6a9',
+            'reference' => '3367074e610fd91ab758b6666ded82ff5c007199',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

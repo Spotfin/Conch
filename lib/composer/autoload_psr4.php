@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Spotfin\\Conch\\' => array($baseDir . '/src'),
+    '' => array($baseDir . '/src'),
 );
