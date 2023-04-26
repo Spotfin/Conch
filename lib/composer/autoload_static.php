@@ -7,7 +7,7 @@ namespace Composer\Autoload;
 class ComposerStaticInitee7375b27820910c52d0ce6dc517476d
 {
     public static $fallbackDirsPsr4 = array (
-        0 => __DIR__ . '/../..' . '/src',
+        0 => __DIR__ . '/../..' . '/inc',
     );
 
     public static $classMap = array (
