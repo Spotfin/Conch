@@ -1,0 +1,21 @@
+{
+    "name": "spotfin/conch",
+    "description": "WordPress Starter Plugin",
+    "type": "wordpress-plugin",
+    "license": "Unlicense",
+    "config": {
+        "vendor-dir": "lib"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Drew Poland",
+            "email": "1743054+bmoredrew@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
